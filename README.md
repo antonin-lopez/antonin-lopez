@@ -17,8 +17,8 @@
 [![Learning](https://skillicons.dev/icons?i=flutter,dart,symfony,php)](https://skillicons.dev)
 
 ## My Github stats
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lopez-antonin&theme=aura&show_icons=true&hide_border=true&count_private=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lopez-antonin&theme=aura&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-antonin&theme=aura&hide_border=true" height="165">
-</p>
+</div>
