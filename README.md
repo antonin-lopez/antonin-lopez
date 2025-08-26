@@ -1,21 +1,24 @@
 # Antonin Lopez
 <p align="left">
-  Je suis étudiant en troisième année de Licence Informatique à l’Université Grenoble Alpes, passionné par la programmation et la résolution de problèmes.
+  As a third-year Computer Science undergraduate at Université Grenoble Alpes, I am passionate about programming and problem-solving, with a particular interest in mobile development. I am constantly seeking to deepen my knowledge and take on new technical challenges.
 </p>
 
-## Mes skills
-[![Mes skills](https://skillicons.dev/icons?i=py,github,git,java,js,react,html,css,php,androidstudio)](https://skillicons.dev)
+## Skills  
+**Languages**  
+[![Languages](https://skillicons.dev/icons?i=py,kotlin,java,js,html,css,powershell,postgresql)](https://skillicons.dev)  
 
+**Frameworks**  
+[![Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
 
-## Mes stats GitHub
+**Tools**  
+[![Outils](https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,idea,webstorm)](https://skillicons.dev) 
+
+## Learning
+[![Learning](https://skillicons.dev/icons?i=flutter,dart,symfony,php)](https://skillicons.dev)
+
+## My Github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lopez-antonin&theme=aura&show_icons=true&hide_border=true&count_private=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lopez-antonin&theme=aura&hide_border=true" height="165">
-</p>
-
-## Ajoute moi
-<p align="left">
-  <a href="https://www.linkedin.com/in/antonin-lopez-403b37313/">
-    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-antonin&theme=aura&hide_border=true" height="165">
 </p>
