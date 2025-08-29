@@ -18,7 +18,7 @@
 
 ## My Github stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopez-antonin&theme=aura&show_icons=true&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lopez-antonin&theme=aura&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-antonin&theme=aura&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=lopez-antonin&theme=highcontrast&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lopez-antonin&theme=highcontrast&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopez-antonin&theme=highcontrast&show_icons=true&hide_border=true&layout=compact">
 </div>
