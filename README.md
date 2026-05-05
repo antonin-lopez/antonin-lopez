@@ -12,7 +12,3 @@ Computer Engineering student
 
 **Tools**  
 [![Outils](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev) 
-
-## Learning
-[![Learning](https://skillicons.dev/icons?i=flutter,dart,symfony,php)](https://skillicons.dev)
-
