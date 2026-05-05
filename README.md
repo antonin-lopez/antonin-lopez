@@ -5,13 +5,13 @@ Computer Engineering student
 
 ## Skills  
 **Languages**  
-[![Languages](https://skillicons.dev/icons?i=py,kotlin,java,js,html,css,powershell,postgresql)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=py,postgresql,java,php,c,js,html,css)](https://skillicons.dev)  
 
 **Frameworks**  
-[![Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+[![Frameworks](https://skillicons.dev/icons?i=react,astro)](https://skillicons.dev)  
 
 **Tools**  
-[![Outils](https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,idea,webstorm)](https://skillicons.dev) 
+[![Outils](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev) 
 
 ## Learning
 [![Learning](https://skillicons.dev/icons?i=flutter,dart,symfony,php)](https://skillicons.dev)
