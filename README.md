@@ -1,6 +1,6 @@
 # Antonin Lopez
 <p align="left">
-  As a third-year Computer Science undergraduate at Université Grenoble Alpes, I am passionate about programming and problem-solving, with a particular interest in mobile development. I am constantly seeking to deepen my knowledge and take on new technical challenges.
+Computer Engineering student
 </p>
 
 ## Skills  
