@@ -1,14 +1,21 @@
 # Antonin Lopez
-<p align="left">
-Computer Engineering student
-</p>
 
-## Skills  
-**Languages**  
-[![Languages](https://skillicons.dev/icons?i=py,postgresql,java,php,c,js,html,css)](https://skillicons.dev)  
+Élève-ingénieur en informatique à l'UTT, issu d'un DUT Informatique.  
+Je recherche un **stage de 6 mois** en développement logiciel / systèmes à partir de **février 2027**.
 
-**Frameworks**  
-[![Frameworks](https://skillicons.dev/icons?i=react,astro)](https://skillicons.dev)  
+Intérêts principaux : bas niveau & systèmes embarqués (C, C++), dev applicatif et data.
 
-**Tools**  
-[![Outils](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev) 
+---
+
+### Technologies
+
+- **Bas niveau & Embarqué :** C, C++, PlatformIO, ESP-NOW, Linux
+- **Applicatif & Web :** Python, Java, Dart (Flutter), React, PHP (Symfony), SQL
+- **Certifications :** OCI Foundations Associate (Oracle Cloud), Anglais C2 (Linguaskill 205/210)
+
+---
+
+### Contact
+
+- Email : [antonin.lopez@utt.fr](mailto:antonin.lopez@utt.fr)
+- LinkedIn : [in/antonin-lopez](https://linkedin.com/in/antonin-lopez)
