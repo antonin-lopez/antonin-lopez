@@ -1,7 +1,7 @@
 # Antonin Lopez
 
 Élève-ingénieur en informatique à l'UTT, issu d'un DUT Informatique.  
-Je recherche un **stage de 6 mois** en développement logiciel / systèmes à partir de **février 2027**.
+Je recherche un **stage de 6 mois** à partir de **février 2027**.
 
 Intérêts principaux : bas niveau & systèmes embarqués (C, C++), dev applicatif et data.
 
